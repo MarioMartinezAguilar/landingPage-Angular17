@@ -1,0 +1,15 @@
+.main{
+    background: linear-gradient(0deg, rgba(0,255,255,1)10%,rgba(45,147,253,1) 80%);
+
+}
+.container{
+    display: grid;
+    justify-items:center;
+    
+}
+img{
+    width:75%;
+    height:75%;
+    /*object-fit: cover;*/
+    border: 5px ridge  rgb(94, 94, 92);
+}
